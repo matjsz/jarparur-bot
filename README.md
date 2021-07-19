@@ -6,7 +6,7 @@
 
 <h4 align="center">
   O BOT do Jarparur ainda está em desenvolvimento, sendo feito com muito carinho pois abriga o universo fictício que estou escrevendo. O BOT funciona como um jogo de RPG, é o meu primeiro contato com banco de dados e hospedagem, um projeto extremamente importante para mim.
-<h4 align="center"><a href="jarparur.web.app">Clique para visitar o site do BOT</a></h4>
+<h4 align="center"><a href="https://jarparur.web.app">Clique para visitar o site do BOT</a></h4>
 <h4 align="center"><a href="https://discord.com/oauth2/authorize?client_id=858120337660968960&permissions=8&scope=bot">Clique para convidar o BOT</a></h4>
 
   ---
