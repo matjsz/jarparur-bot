@@ -14,13 +14,9 @@
 ## ⚙️ Tecnologias utilizadas
 
 - Python;
-- Javascript;
 - Discord API;
 - Firebase;
 - Heroku Cloud;
-- HTML;
-- CSS;
-- Bootstrap;
 
 ---
 
