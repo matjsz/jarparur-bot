@@ -15,7 +15,7 @@
 
 - Python;
 - Discord API;
-- Firebase;
+- Firebase (Firestore, Hosting, Authentication, Storage);
 - Heroku Cloud;
 
 ---
