@@ -19,17 +19,3 @@
 - Heroku Cloud;
 
 ---
-
-## 😁 Autor<br>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/matjsilva">
-        <img src="https://avatars3.githubusercontent.com/u/54675543" width="100px;" alt="Foto do Autor no GitHub"/><br>
-        <sub>
-          <b>Matheus Silva</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
